@@ -1,1 +1,3 @@
 # Auto-CursoPython
+
+CURSO AUTOGESTIONADO
